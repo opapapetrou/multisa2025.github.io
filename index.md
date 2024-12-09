@@ -63,6 +63,7 @@ The topics of interest include (but are not limited to):
 - Handling uncertainty
 - Privacy-preserving analytics on multivariate data
 - Requirements, applications, and query languages for multivariate time series analytics
+- Foundation models for multivariate time series
 
 <!-- Back to top button -->
 <div class="go-to-top">
