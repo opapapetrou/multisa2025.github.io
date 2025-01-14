@@ -240,28 +240,29 @@ To be announced.
 ---
 
 ## Program Committee
-To be announced.
-
-<!-- - Paul Boniol, Postdoctoral researcher at Ecole Normale Supérieure (ENS) Paris Saclay, France
-- Jessica Lin, Associate professor at George Mason University, USA 
-- Abdullah Mueen, Associate professor at University of New Mexico, USA
-- Patrick Schäfer, Postdoctoral researcher at the Humboldt University of Berlin
-- Saurabh Agrawal, Senior Machine Learning Engineer at Tubi, San Francisco, USA
-- Germain Forestier, Professor at University of Haute-Alsace, IRIMAS, France
-- Peng Wang, Professor at Fudan University, China
-- Shen Liang, Postdoctoral researcher at Université Paris Cité, France
-- Anthony Bagnall, Professor at University of Southampton, UK
-- Søren Kejser Jensen, Postdoctoral researcher at Aalborg University, Denmark
-- Michele Linardi, Assistant professor at ETIS lab, France
-- Karine Zeitouni, Professor at Université Paris-Saclay, France
-- John Paparrizos, Assistant Professor at Ohio State University, USA
-- Thorsten Papenbrock, Professor at Philipps-Universität Marburg, Germany
-- Qitong	Wang, Université Paris Cité
-- Tristan	Allard,	Associate professor at	Univ Rennes, CNRS, IRISA
-- Johann Gamper, Professor at	Free University of Bozen-Bolzano
-- Rodica	Neamtu, Professor at	Worcester Polytechnic Institute
-- Georgios	Chatzigeorgakidis, Postdoctoral researcher at Athena Research Center
-- Giorgos	Giannopoulos, Postdoctoral researcher at Athena Research Center -->
+- Anthony Bagnall, University of Southampton
+- Bin Yang, Aalborg University
+- Chen Wang,  Tsinghua University, China
+- Georgios Chatzigeorgakidis, Athena Research Center
+- Germain Forestier, University of Haute Alsace
+- Ioannis Psarros, Athena Research Center
+- Jens E. d'Hondt, Eindhoven University of Technology
+- Jessica Lin, George Mason University
+- Johann Gamper, Free University of Bozen-Bolzano
+- John Paparrizos, The Ohio State University
+- Michele Linardi, CYU
+- Patrick Schäfer, Humboldt-Universität zu Berlin
+- Paul Boniol, Inria, Ecole Normale Supérieure
+- Qitong Wang, Harvard University
+- Rodica Neamtu, Worcester Polytechnic Institute
+- Shaoxu Song, Tsinghua University
+- Shen Liang, Université Paris Cité
+- Søren Kejser Jensen, Aalborg University
+- Tristan Allard, Univ Rennes, CNRS, IRISA
+- Xiaofeng Gao, Shanghai Jiaotong University
+- Xiaoou Ding, Harbin Institute of Technology
+- Yihao Ang, National University of Singapore
+- Zhenying He, Fudan University
 
 <!-- Back to top button -->
 <div class="go-to-top">
