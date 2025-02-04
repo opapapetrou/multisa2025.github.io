@@ -50,7 +50,7 @@ The accepted papers will be included in the ICDEW proceedings.
 
 ## Topics of interest
 The topics of interest include (but are not limited to):
-- Open challenges in multivariate time series management
+- Open challenges in multivariate time series management 
 - Forecasting and anomaly detection for multivariate time series
 - Machine learning and deep learning techniques for multivariate time series
 - Foundation models for multivariate time series
