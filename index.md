@@ -51,19 +51,19 @@ The accepted papers will be included in the ICDEW proceedings.
 ## Topics of interest
 The topics of interest include (but are not limited to):
 - Open challenges in multivariate time series management
+- Forecasting and anomaly detection for multivariate time series
+- Machine learning and deep learning techniques for multivariate time series
+- Foundation models for multivariate time series
 - Similarity search on multivariate time series, and detection of multivariate correlations and similarity measures
 - Online analytical processing for multivariate time series 
 - Streaming and/or distributed analytics on multivariate time series
 - Storing, indexing, and querying multivariate time series
 - Sketching and summarizing multivariate time series
 - Data preparation (data cleaning, noise removal, handling missing values) on multivariate time series
-- Forecasting and anomaly detection for multivariate time series
-- Machine learning and deep learning techniques for multivariate time series
 - Interactive visualization and analytics on (streaming) multivariate time series
 - Handling uncertainty
 - Privacy-preserving analytics on multivariate data
 - Requirements, applications, and query languages for multivariate time series analytics
-- Foundation models for multivariate time series
 
 <!-- Back to top button -->
 <div class="go-to-top">
